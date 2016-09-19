@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-blurbs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Renders four types of blurbs/hints in Gitbook, supports content parsing, better than hints plugin",
   "main": "index.js",
   "engines": {
