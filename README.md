@@ -1,7 +1,11 @@
 GitBook Blurbs plugin
 ===========
 
-Add to GitBook
+This Gitbook plugin improves the [hints](https://github.com/GitbookIO/plugin-hints) plugin, which seems inactive. This plugin supports parsing enclosed markdown text in the blurb.
+
+### Install
+
+Add following to `book.json`.
 
 ```
 {
@@ -10,10 +14,12 @@ Add to GitBook
 
 ```
 
-Use it in the book.
+### Usage
+
+Markdown/Asciidoc content is parsed.
 
 ```
-{% blurb style='tip' %}
+{% blurb style='tip', title='Important notice' %}
 Render this link: [Google](https://google.com)
 {% endblurb %}
 ```
@@ -21,4 +27,4 @@ Render this link: [Google](https://google.com)
 Support arguments:
 * `style` - `info`(default), `tip`, `danger` or `working`.
 * `type` - `markdown`(default) or `asciidoc`.
-* `title` - Title
+* `title` - Title of the blurb.
