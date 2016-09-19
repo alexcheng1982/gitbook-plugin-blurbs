@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-plugin-blurbs",
+  "version": "1.0.0",
+  "description": "Blurbs",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">2.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcheng1982/gitbook-plugin-blurbs.git"
+  },
+  "keywords": ["gitbook"],
+  "author": "Fu Cheng <alexcheng1982@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexcheng1982/gitbook-plugin-blurbs/issues"
+  },
+  "homepage": "https://github.com/alexcheng1982/gitbook-plugin-blurbs#readme"
+}
