@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-blurbs",
   "version": "1.0.0",
-  "description": "Blurbs",
+  "description": "Render four types of blurbs in gitbook",
   "main": "index.js",
   "engines": {
     "gitbook": ">2.x.x"
