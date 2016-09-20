@@ -4,7 +4,7 @@
   "description": "Renders four types of blurbs/hints in Gitbook, supports content parsing, better than hints plugin",
   "main": "index.js",
   "engines": {
-    "gitbook": ">=2.4.1"
+    "gitbook": ">=3.0.0"
   },
   "repository": {
     "type": "git",
