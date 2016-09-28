@@ -25,6 +25,10 @@ Render this link: [Google](https://google.com)
 ```
 
 Support arguments:
-* `style` - `info`(default), `tip`, `danger` or `working`.
+* `style` - `info`(default), `tip`, `danger`, `warning`, `danger`, `help`, `build`.
 * `type` - `markdown`(default) or `asciidoc`.
 * `title` - Title of the blurb.
+
+### Icons
+
+Icons used in this plugin are taken from [Material icons](https://design.google.com/icons/). These icons are licensed under Apache v2, see [git repo](https://github.com/google/material-design-icons/).

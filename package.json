@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alexcheng1982/gitbook-plugin-blurbs/issues"
   },
-  "homepage": "https://github.com/alexcheng1982/gitbook-plugin-blurbs"
+  "homepage": "https://github.com/alexcheng1982/gitbook-plugin-blurbs",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
 }
