@@ -1,6 +1,8 @@
 GitBook Blurbs plugin
 ===========
 
+[![NPM](https://nodei.co/npm/gitbook-plugin-blurbs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gitbook-plugin-blurbs/)
+
 This Gitbook plugin improves the [hints](https://github.com/GitbookIO/plugin-hints) plugin, which seems inactive. This plugin supports parsing enclosed markdown text in the blurb.
 
 ### Install
