@@ -27,7 +27,7 @@ Render this link: [Google](https://google.com)
 ```
 
 Support arguments:
-* `style` - `info`(default), `tip`, `danger`, `warning`, `danger`, `help`, `build`.
+* `style` - `info`(default), `tip`, `warning`, `error`, `help`, `build`.
 * `type` - `markdown`(default) or `asciidoc`.
 * `title` - Title of the blurb.
 
